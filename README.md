@@ -35,15 +35,15 @@
 
 
 </br>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hmr2406)](https://solved.ac/alqp118/)
 
 </div>
 
 
 </br>
-<div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hmr2406)](https://solved.ac/alqp118/)
-</div>
+
+
+
 </br>
 
 
