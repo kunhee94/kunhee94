@@ -28,7 +28,10 @@
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
-<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/React-003545?style=for-the-badge&logo=React&logoColor=#61DAFB">
+
+<img src="https://img.shields.io/badge/React-003545?style=for-the-badge&logo=React&logoColor=#61DAFB">
+
 
 </br>
 
