@@ -39,23 +39,10 @@
 
 </br>
 
-</br>
-
-![header](https://capsule-render.vercel.app/api?type=transparent&height=50&text=🧳%20Project&fontSize=30&fontColor=db6d9e&animation=scaleIn)
-
-<div align="center">
-
-<a href="https://devyoseph.github.io/start.html"><img src="https://img.shields.io/badge/Project_01-000000?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
-
-</div>
-
 ​
 
 </br>
 
-</br>
-
-</br>
 
 <div align="center">
 
